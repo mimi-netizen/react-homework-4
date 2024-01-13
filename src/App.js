@@ -61,14 +61,16 @@ function App() {
         </div>
         <footer>
           This project was coded by
-          <a href="https://github.com/mimi-netizen">Celyne Kydd</a>
+          <a href="https://github.com/mimi-netizen"> Celyne Kydd </a>
           and is on
-          <a href="https://github.com/mimi-netizen/Vanilla-Weather-App">
-            GitHub
+          <a href="https://github.com/mimi-netizen/react-homework-4">
+            {" "}
+            GitHub{" "}
           </a>
           and hosted on
-          <a href="https://main--responsive-vanilla-js-weather.netlify.app/">
-            Netlify
+          <a href="https://master--poetic-mooncake-edc3a9.netlify.app//">
+            {" "}
+            Netlify{" "}
           </a>
         </footer>
       </div>
