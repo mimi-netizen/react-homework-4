@@ -60,22 +60,14 @@ function App() {
           </div>
         </div>
         <footer>
-          Coded by
-          <a href="https://github.com/mimi-netizen" target="_blank">
-            Celyne Kydd
-          </a>
+          This project was coded by
+          <a href="https://github.com/mimi-netizen">Celyne Kydd</a>
           and is on
-          <a
-            href="https://github.com/mimi-netizen/Vanilla-Weather-App"
-            target="_blank"
-          >
+          <a href="https://github.com/mimi-netizen/Vanilla-Weather-App">
             GitHub
           </a>
           and hosted on
-          <a
-            href="https://main--responsive-vanilla-js-weather.netlify.app/"
-            target="_blank"
-          >
+          <a href="https://main--responsive-vanilla-js-weather.netlify.app/">
             Netlify
           </a>
         </footer>
